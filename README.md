@@ -1,2 +1,4 @@
 # Pesquisas
-Algumas pesquisas de conceito 
+
+- [ ] Rust Mutex e Arc 
+- [ ] IAs em gamer 
